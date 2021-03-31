@@ -1,0 +1,6 @@
+/.env
+/README
+/node_modules
+/package-lock.json
+/package.json
+/vosk-model-en-us-aspire-0.2

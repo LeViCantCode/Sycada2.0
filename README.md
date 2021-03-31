@@ -1,0 +1,1 @@
+Sycada is a discord bot made for deaf/hard of hearing people
