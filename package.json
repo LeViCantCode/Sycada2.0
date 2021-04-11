@@ -1,0 +1,19 @@
+{
+   "dependencies": {
+      "@discordjs/opus": "^0.5.0",
+      "discord.js": "^12.5.3",
+      "express": "^4.17.1",
+      "ffmpeg": "0.0.4",
+      "ffmpeg-static": "^4.3.0",
+      "file-type": "^16.3.0",
+      "fluent-ffmpeg": "^2.1.2",
+      "ibm-watson": "^6.0.3",
+      "node-fetch": "^2.6.1",
+      "opus": "0.0.0",
+      "package.json": "^2.0.1",
+      "stream-buffers": "^3.0.2",
+      "watson-developer-cloud": "^4.0.1",
+      "wav": "^1.0.2",
+      "zip-lib": "^0.7.2"
+   }
+}
